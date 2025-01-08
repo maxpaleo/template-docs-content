@@ -31,18 +31,12 @@
     "href": "/structure",
     "items": [
       {
-        "title": "Deep",
-        "href": "/deep",
+        "title": "Deeper",
+        "href": "/deeper",
         "items": [
           {
-            "title": "Deeper",
-            "href": "/deeper",
-            "items": [
-              {
-                "title": "Even deeper",
-                "href": "/even-deeper"
-              }
-            ]
+            "title": "Even deeper",
+            "href": "/even-deeper"
           }
         ]
       }
